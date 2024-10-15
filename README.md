@@ -26,8 +26,8 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine. You
 node -v
 ```
 ```
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/Saksham905/CAW-Studios_Assignment
+cd directory
 npm install
 npm run dev
 ```
