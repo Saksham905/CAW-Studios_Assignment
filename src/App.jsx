@@ -33,8 +33,6 @@ const App = () => {
     setFilteredTasks
   }
 
-
-
   return (
 
     <div
